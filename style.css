@@ -1,6 +1,13 @@
 :root { 
-     --cor-de-fundo: #EBECEE 
+     --cor-de-fundo: #EBECEE; 
 }
-    body{
+
+body{
         background-color: deeppink;
-    }
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: dashed;
+}
